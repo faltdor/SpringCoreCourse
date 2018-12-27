@@ -1,1 +1,1 @@
-# SpringCoreCourse
+# Spring Core
